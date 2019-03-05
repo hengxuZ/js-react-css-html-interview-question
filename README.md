@@ -20,4 +20,4 @@ css面试笔试题汇总整理
 
 ### css属性
 
-- [能说说css定位有哪些，他们的区别吗？](https://github.com/hengxuZ/CSS-interview-question/tree/master/css-attribute/location.md)
+- [能说说css定位有哪些，他们的区别吗？](https://github.com/hengxuZ/CSS-interview-question/tree/master/css attribute/location.md)
