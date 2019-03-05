@@ -1,4 +1,3 @@
-css面试笔试题汇总整理
 # 为什么要创建这个仓库？💪
 
 
@@ -16,8 +15,16 @@ css面试笔试题汇总整理
 - 根据题目思考解答思路✌
 - 再点击进入查看题目答案👌
 
+----
 ## 目录
 
+## JS
+### ES6
+
+---
+## CSS
 ### css属性
 
 - [能说说css定位有哪些，他们的区别吗？](https://github.com/hengxuZ/CSS-interview-question/tree/master/css-attribute/location.md)
+
+- [css有哪些选择器并且优先级是怎样？](https://github.com/hengxuZ/CSS-interview-question/tree/master/css-attribute/selector.md)
