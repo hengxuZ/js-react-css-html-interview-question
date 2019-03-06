@@ -20,7 +20,7 @@
 
 ## JS
 ### ES6
-
+- [如何判断两个对象(json)是否相等？](https://github.com/hengxuZ/CSS-interview-question/tree/master/js/es6/equalJson.md)
 ---
 ## CSS
 ### css属性
@@ -28,3 +28,7 @@
 - [能说说css定位有哪些，他们的区别吗？](https://github.com/hengxuZ/CSS-interview-question/tree/master/css-attribute/location.md)
 
 - [css有哪些选择器并且优先级是怎样？](https://github.com/hengxuZ/CSS-interview-question/tree/master/css-attribute/selector.md)
+
+---
+## 算法
+- [解答一下，如何实现两数求和](https://github.com/hengxuZ/CSS-interview-question/tree/master/arithmetic/twoNumber-sum.md)
