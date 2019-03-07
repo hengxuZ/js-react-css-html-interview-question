@@ -19,18 +19,15 @@
 ## 目录
 
 ## JS
-- [JS概念类面试题汇总](https://github.com/hengxuZ/CSS-interview-question/tree/master/js/js-question.md)
-### ES6
-- [如何判断两个对象(json)是否相等？](https://github.com/hengxuZ/CSS-interview-question/tree/master/js/es6/equalJson.md)
----
+- [JS概念类面试题汇总](https://github.com/hengxuZ/CSS-interview-question/tree/master/js/javascript-questions.md)👈
 ## HTML
-- [HTML概念类面试题汇总](https://github.com/hengxuZ/CSS-interview-question/tree/master/html/html-question.md)
-
----
+- [HTML概念类面试题汇总](https://github.com/hengxuZ/CSS-interview-question/tree/master/html/html-questions.md)👈
 ## CSS
-- [CSS概念类面试题汇总](https://github.com/hengxuZ/CSS-interview-question/tree/master/css/css-question.md)
+- [CSS概念类面试题汇总](https://github.com/hengxuZ/CSS-interview-question/tree/master/css/css-questions.md)👈
+## JS知识思维导图
+- [前端知识思维导图](https://github.com/hengxuZ/CSS-interview-question/tree/master/javascript思维导图.md)👨‍👨‍👧‍👦
+---
 ### css属性
-
 - [能说说css定位有哪些，他们的区别吗？](https://github.com/hengxuZ/CSS-interview-question/tree/master/css-attribute/location.md)
 
 - [css有哪些选择器并且优先级是怎样？](https://github.com/hengxuZ/CSS-interview-question/tree/master/css-attribute/selector.md)
@@ -38,3 +35,6 @@
 ---
 ## 算法
 - [解答一下，如何实现两数求和](https://github.com/hengxuZ/CSS-interview-question/tree/master/arithmetic/twoNumber-sum.md)
+---
+### ES6
+- [如何判断两个对象(json)是否相等？](https://github.com/hengxuZ/CSS-interview-question/tree/master/js/es6/equalJson.md)
