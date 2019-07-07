@@ -1314,7 +1314,7 @@ ES2015 定义了一个模块语法，旨在替换 AMD 和 CommonJS。 这最终�
 * http://flowerszhong.github.io/2013/11/20/javascript-questions.html
 
 ### 请用原生js实现一个函数,给页面制定的任意一个元素添加一个透明遮罩(透明度可变,默认0.2),使这个区域点击无效,要求兼容IE8+及各主流浏览器,遮罩层效果如下图所示:
-![遮罩效果](/img/element-mask.jpg
+![遮罩效果](/img/element-mask.jp)
 
 ```
 <style>
