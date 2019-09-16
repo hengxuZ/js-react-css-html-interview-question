@@ -1,0 +1,37 @@
+/**index.wxss**/
+/*圆环进度条文字*/
+.circle_info{
+  position: absolute; 
+  width: 100%;
+  left: 50%;
+  top: 50%; 
+  transform: translate(-50%,-50%); 
+  display: flex;  
+  align-items: center;
+  justify-content: center
+}
+.circle_dot{
+  width:16rpx;
+  height: 16rpx;  
+  border-radius: 50%;
+  background-color: #fb9126;
+} 
+.circle_txt{
+  padding-left: 10rpx;
+  color: #fff;
+  font-size: 36rpx; 
+  letter-spacing: 2rpx;
+}
+
+.circle_text{ 
+  position: absolute;  
+  left: 50%;
+  top: 50%; 
+  transform: translate(-50%,-50%); 
+}
+.circle_time{  
+  color: #fff;
+  font-size: 32rpx;
+  padding-left: 16rpx; 
+} 
+

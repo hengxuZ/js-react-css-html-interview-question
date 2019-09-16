@@ -1,0 +1,6 @@
+<!--components/circle/circle.wxml-->
+<view class="circle_box" style="width:{{size}}px;height:{{size}}px">
+      <canvas class="circle_bg" canvas-id="{{bg}}" style="width:{{size}}px;height:{{size}}px"></canvas> 
+      <canvas class="circle_draw" canvas-id="{{draw}}" style="width:{{size}}px;height:{{size}}px"></canvas> 
+      <slot></slot>    
+</view>

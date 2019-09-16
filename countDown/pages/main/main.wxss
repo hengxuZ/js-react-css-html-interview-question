@@ -1,0 +1,19 @@
+/* pages/main/main.wxss */
+.circle_txt{
+  padding-left: 10rpx;
+  color: #fff;
+  font-size: 36rpx; 
+  letter-spacing: 2rpx;
+}
+
+.circle_text{ 
+  position: absolute;  
+  left: 50%;
+  top: 50%; 
+  transform: translate(-50%,-50%); 
+}
+.circle_time{  
+  color: #fff;
+  font-size: 32rpx;
+  padding-left: 16rpx; 
+} 

@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "circle": "/components/circle/circle"
+  }
+}

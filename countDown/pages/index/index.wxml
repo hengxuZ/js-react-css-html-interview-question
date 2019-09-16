@@ -1,0 +1,28 @@
+<cu-custom bgColor="bg-gradual-blue">
+  <view slot="content">ColorUI 空白模板</view>
+</cu-custom>
+
+
+<view class="container"> 
+  <circle id='circle1' 
+   bg='circle_bg1'    
+   draw='circle_draw1'      
+   bind:runEvent="_runEvent" >
+    <!-- 这部分内容将被放置在组件 <slot> 的位置上 -->
+    <view class="circle_info" bindtap="changeTime">
+       <view class="circle_dot"></view>  
+      <text class='circle_txt'> {{txt}}  </text>
+    </view>
+  </circle>
+</view>
+
+<view class="container"> 
+   <circle id='circle' 
+   bg='circle_bg'    
+   draw='circle_draw'      
+   bind:runEvent="_runEvent" >
+    <view class="circle_text" bindtap="changeTime">
+      <text class='circle_time'> {{time}} s</text>
+    </view>
+  </circle>  
+</view>

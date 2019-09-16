@@ -1,0 +1,15 @@
+<!--pages/main/main.wxml-->
+<cu-custom bgColor="bg-gradual-blue">
+  <view slot="content">ColorUI 空白模板</view>
+</cu-custom>
+
+<view class="container"> 
+   <circle id='circle' 
+   bg='circle_bg'    
+   draw='circle_draw'      
+   bind:runEvent="_runEvent" >
+    <view class="circle_text" bindtap="changeTime">
+      <text class='circle_time'> {{time}} s</text>
+    </view>
+  </circle>  
+</view>
