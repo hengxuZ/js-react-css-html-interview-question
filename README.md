@@ -20,7 +20,6 @@
 
 ## 前端面试文章推荐
 
-
 - [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 - [中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂(中篇)](https://juejin.im/post/5c92f499f265da612647b754)
 - [中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂(下篇)](https://juejin.im/post/5cc26dfef265da037b611738)
@@ -30,6 +29,20 @@
 - [web前端面试总结](https://juejin.im/post/5dafb263f265da5b9b80244d)
 
 ---
+
+## 大厂技术分享
+
+- [腾讯前端 Web 团队IMWEB](http://imweb.io)
+- [腾讯 Web 前端团队 Alloy Team](http://www.alloyteam.com)
+- [淘宝前端团队](http://taobaofed.org)
+- [百度Web前端研发部](http://fex.baidu.com)
+- [京东凹凸实验室](https://aotu.io)
+- [360奇舞团](https://75team.com)
+- [七牛团队技术博客](http://blog.qiniu.com)
+- [有赞技术团队](http://tech.youzan.com)
+- [大搜车技术博客](https://blog.souche.com)
+- [美团](https://tech.meituan.com/)
+
 ## 前端在线书籍文档
 <details>
 <summary id="csshtml" style="font-size:20px">CSS/HTML</summary>
@@ -150,4 +163,4 @@
 - [JS概念类面试题汇总](https://github.com/hengxuZ/CSS-interview-question/tree/master/js/javascript-questions.md)👈
 - [HTML概念类面试题汇总](https://github.com/hengxuZ/CSS-interview-question/tree/master/html/html-questions.md)👈
 - [CSS概念类面试题汇总](https://github.com/hengxuZ/CSS-interview-question/tree/master/css/css-questions.md)👈
-- [前端知识思维导图](https://github.com/hengxuZ/CSS-interview-question/tree/master/javascript思维导图.md)👨‍👨‍👧‍👦
+- [前端知识思维导图](https://github.com/hengxuZ/CSS-interview-question/tree/master/javascript思维导图.md)
