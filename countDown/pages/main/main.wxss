@@ -13,7 +13,7 @@
   transform: translate(-50%,-50%); 
 }
 .circle_time{  
-  color: #fff;
+  color: #000;
   font-size: 32rpx;
   padding-left: 16rpx; 
 } 
