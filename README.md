@@ -18,16 +18,18 @@
 ----
 ## 目录
 
-## 前端面试文章推荐
-
+## 全网前端面试文章
+<details>
+<summary id="juejin" style="font-size:20px">掘金(点赞数上千优秀文章)</summary>
 - [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 - [中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂(中篇)](https://juejin.im/post/5c92f499f265da612647b754)
 - [中高级前端大厂面试秘籍，寒冬中为您保驾护航，直通大厂(下篇)](https://juejin.im/post/5cc26dfef265da037b611738)
-
+- [2020年前端面试复习必读文章【超百篇文章/赠复习导图】](https://juejin.im/post/5e8b163ff265da47ee3f54a6)
+- [写给女朋友的中级前端面试秘籍（含详细答案，15k级别）](https://juejin.im/post/5e7af0685188255dcf4a497e)
 - [【前端面试分享】- 寒冬求职上篇](https://juejin.im/post/5cdb7bc26fb9a0321557044d)
 - [【前端面试分享】- 寒冬求职下篇](https://juejin.im/post/5cdcc009e51d453afb40d87c)
 - [web前端面试总结](https://juejin.im/post/5dafb263f265da5b9b80244d)
-
+</details>
 ---
 
 ## 大厂技术分享
@@ -154,8 +156,11 @@
 </details>
 
 ---
-## 面试网站推荐
-
+## 前端学习(视频)网站推荐
+- [掘金](https://juejin.im/)
+- [思否](https://segmentfault.com/)
+- [慕课网](https://imooc.com)
+- [极客学院](http://www.jikexueyuan.com)
 - [前端进阶之道](https://yuchengkai.cn/docs/frontend/)
 - [牛客网](https://www.nowcoder.com/)
 
