@@ -51,6 +51,7 @@
 - [有赞技术团队](http://tech.youzan.com)
 - [大搜车技术博客](https://blog.souche.com)
 - [美团](https://tech.meituan.com/)
+- [Uber](https://eng.uber.com/)
 
 ## 前端在线书籍文档
 <details>
@@ -159,7 +160,7 @@
 * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
 * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)
 * [一起学 Node.js](https://github.com/nswbmw/N-blog)   
-
+* [前端开发者手册](http://caibaojian.com/fedbook/)
 </details>
 
 ---
