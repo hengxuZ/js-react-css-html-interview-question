@@ -1,24 +1,7 @@
-# 为什么要创建这个仓库？💪
 
+# 目录
 
-👶小时候学习的经历告诉我，当学会了某个单一的知识点需要通过例题对它的概念以及用进行考察，以助于我能更好的掌握理解。
-
-当一个章节学完后✍，还是通过例题对这个章节所涉及的知识点进行考察，从点到面的考察，将这些知识点贯穿起来，达到对知识点的更深入的理解。
-
-相同地，我认为前端学习过程中，习题是至关重要的一部分，所以我收集了全网对应章节的笔试，面试题进行解答。📗
-
-不定时更新面试题📚。为我自己加深知识点的同时，也希望能够给其他小伙伴带来便利。希望每个小伙伴都能学有所获，学以致用，然后能够取得自己心仪的offer👍
-
-## 使用说明📑
-
-- 对相关知识点**概念**有初步了解👆
-- 根据题目思考解答思路✌
-- 再点击进入查看题目答案👌
-
-----
-## 目录
-
-## 全网前端面试文章
+## 全网前端面试文章:smiley_cat:
 <details>
 <summary id="juejin" style="font-size:20px">掘金(点赞数过千的优秀文章)</summary>
 
@@ -51,6 +34,7 @@
 - [有赞技术团队](http://tech.youzan.com)
 - [大搜车技术博客](https://blog.souche.com)
 - [美团](https://tech.meituan.com/)
+- [Uber](https://eng.uber.com/)
 
 ## 前端在线书籍文档
 <details>
@@ -159,7 +143,7 @@
 * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
 * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)
 * [一起学 Node.js](https://github.com/nswbmw/N-blog)   
-
+* [前端开发者手册](http://caibaojian.com/fedbook/)
 </details>
 
 ---
